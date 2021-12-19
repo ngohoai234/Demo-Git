@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fix issue của Main
+=======
+Fix issue By Issue 3 branch
+>>>>>>> issue3
